@@ -54,7 +54,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhD Candidate
+        - title: Researcher
           company: Delft University of Technology
           company_url: https://www.tudelft.nl/en/
           company_logo: ''
@@ -99,14 +99,14 @@ sections:
     id: contact
     content:
       title: Contact
-      email: s.mukherjee-3@tudelft.nl
+      email: sayakmukherjee2010@gmail.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Van Mourik Broekmanweg 6
-        city: Delft
+        # street: Van Mourik Broekmanweg 6
+        city: Rijswijk
         # region: Delft
-        postcode: '2628XE'
+        # postcode: '2283 XL'
         country: The Netherlands
         country_code: NL
     design:

@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Sayak Mukherjee is a PhD candidate at the [Computer Vision Lab](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab) of the Delft University of Technology advised by [Hadi Jamali-Rad](https://sites.google.com/view/jamalirad/home) and [Jan van Gemert](https://jvgemert.github.io/). His research primarily focuses on generative AI and self-supervised representation learning. He received his Masters in Computer Science from the TU Delft, with a focus on Artificial Intelligence Technology. Prior to pursuing a Masters degree, he worked for three years at Oracle as an Application Developer.
+Sayak Mukherjee is a researcher at the Delft University of Technology. His research primarily focuses on generative AI and self-supervised representation learning. He received his Masters in Computer Science from the TU Delft, with a focus on Artificial Intelligence Technology. Prior to pursuing a Masters degree, he worked for three years at Oracle as an Application Developer.
 {style="text-align: justify;"}
