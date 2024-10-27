@@ -106,7 +106,7 @@ sections:
         # street: Van Mourik Broekmanweg 6
         city: Rijswijk
         # region: Delft
-        # postcode: '2283 XL'
+        postcode: '2283 XL'
         country: The Netherlands
         country_code: NL
     design:
