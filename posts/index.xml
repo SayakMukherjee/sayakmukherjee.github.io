@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sayak Mukherjee</title>
+<link>https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/</link>
+<atom:link href="https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Tue, 26 Dec 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello World</title>
+  <dc:creator>Sayak Mukherjee</dc:creator>
+  <link>https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hello World!</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@misc{mukherjee2023,
+  author = {{Sayak Mukherjee}},
+  title = {Hello {World}},
+  date = {2023-12-27},
+  url = {https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/},
+  langid = {en-GB}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-mukherjee2023" class="csl-entry quarto-appendix-citeas">
+Sayak Mukherjee. 2023. <span>“Hello World.”</span> <a href="https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/">https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/</a>.
+</div></div></section></div> ]]></description>
+  <category>introduction</category>
+  <guid>https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/</guid>
+  <pubDate>Tue, 26 Dec 2023 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

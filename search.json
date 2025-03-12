@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2025\n\n“CoDe: Blockwise Control for Denoising Diffusion Models.”\nAnuj Singh, Sayak Mukherjee, Ahmad Beirami, Hadi Jamali-Rad (2025).\nIn ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy\n \n Paper   Code \n\n\n\n2024\n\n“MAPL: Model Agnostic Peer-to-peer Learning.”\nSayak Mukherjee, Andrea Simonetto, Hadi Jamali-Rad (2024).\nIn ArXiV\n \n Paper   Code"
+  },
+  {
+    "objectID": "posts/my-first-blog/index.html",
+    "href": "posts/my-first-blog/index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "Hello World!\n\n\n\nCitationBibTeX citation:@misc{mukherjee2023,\n  author = {{Sayak Mukherjee}},\n  title = {Hello {World}},\n  date = {2023-12-27},\n  url = {https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/},\n  langid = {en-GB}\n}\nFor attribution, please cite this work as:\nSayak Mukherjee. 2023. “Hello World.” https://SayakMukherjee.github.io/sayakmukherjee.github.io/posts/my-first-blog/."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "👋 Welcome to My Blog",
+    "section": "",
+    "text": "Hi, this is Sayak. I’m documenting my learning notes in this blog and things I find interesting.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello World\n\n\n\n\n\n\nintroduction\n\n\n\nHello World\n\n\n\n\n\nDec 27, 2023\n\n\nSayak Mukherjee\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sayak Mukherjee",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     Github\n  \n  \n      Email\n  \n  \n      Google Scholar\n  \n\n  \n  \nSayak is a PhD student at the Human Oriented Machine Perception (HOMI) Lab at TU Delft. Under the guidance of Bernd Dudzik and Tom Viering, he is exploring ways to build AI that doesn’t just process data but truly understands the rich, nuanced world of human emotions — enhancing intelligent interaction and decision-making? His research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. Sayak’s work bridges insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges.\nBeyond affective computing, he is passionate about generative modelling and test-time adaptation of pre-trained models. Holding a Master’s in Computer Science, with one year of research experience at the Computer Vision Lab, TU Delft and three years of experience as an application developer at Oracle, Sayak brings a unique blend of industrial expertise and deep research curiosity to the future of human-centered AI.\n\n\n\n\nAffective Computing\nGenerative Modelling\nComputer Vision\nSelf-supervised Learning\n\n\n\n\n🎓 MSc Computer Science\nDelft University of Technology\n🎓 BTech Information Technology\nWest Bengal University of Technology"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Sayak Mukherjee",
+    "section": "",
+    "text": "Affective Computing\nGenerative Modelling\nComputer Vision\nSelf-supervised Learning"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sayak Mukherjee",
+    "section": "",
+    "text": "🎓 MSc Computer Science\nDelft University of Technology\n🎓 BTech Information Technology\nWest Bengal University of Technology"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sayak Mukherjee",
+    "section": "Experience",
+    "text": "Experience\nDoctoral Researcher | Delft University of Technology | Mar 2025 - Present\n\nFocus: Data-Eﬀicient ML for Context-Sensitive Affective Computing.\n\nResearcher | Delft University of Technology | Sep 2023 - Feb 2025\n\nWorked on generative models with a focus on diffusion models.\nExplored training-free alignment of diffusion models.\nProposed an alignment approach based on importance sampling.\nCollaborated with researchers from MIT, Shell AI Research and Google.\n\nTeaching Assistant | Delft University of Technology | Feb 2022 - Present\n\nHuman-Computer Interaction (CSE3500)\nWeb Science & Engineering (IN4252)\nFundamentals of AI Program (IFEEMCS520100)\nDeep Learning (CS4240)\nAI Skills for Engineers (Access on EdX)\nGenerative Modelling (DSAIT4030)\n\nApplication Developer | Oracle | Aug 2018 - Jul 2021\n\nCollaborated with financial stakeholders to gather requirements.\nCustomized Oracle FLEXCUBE platform optimizing for regional banking needs.\nDeveloped 40+ functionalities tailored to the Latin American banking sector.\nUtilized Java, Spring, Hibernate, SOAP API, and JavaScript.\nDeployed solutions on Oracle Database and Oracle Weblogic Server."
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Sayak Mukherjee",
+    "section": "Selected Papers",
+    "text": "Selected Papers\n\n“CoDe: Blockwise Control for Denoising Diffusion Models.”\nAnuj Singh, Sayak Mukherjee, Ahmad Beirami, Hadi Jamali-Rad (2025).\nIn ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy\n“MAPL: Model Agnostic Peer-to-peer Learning.”\nSayak Mukherjee, Andrea Simonetto, Hadi Jamali-Rad (2024).\nIn ArXiV"
+  }
+]
