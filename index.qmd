@@ -1,0 +1,143 @@
+---
+title: "Sayak Mukherjee"
+about:
+    id: hero-heading
+    template: trestles
+    image-shape: round
+    image-width: 20em
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/smukherjee96/
+        - icon: twitter
+          text: Twitter
+          url: https://twitter.com/_sayak_m_
+        - icon: github
+          text: Github
+          url: https://github.com/SayakMukherjee
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:s.mukherjee-3@tudelft.nl
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=NUwuAkgAAAAJ
+image: assets/avatar.jpg
+comments: false
+format: 
+  html:
+    page-layout: full
+    toc: false
+---
+
+:::{#hero-heading}
+
+Sayak is a PhD student at the Human Oriented Machine Perception (HOMI) Lab at TU Delft. Under the guidance of [Bernd Dudzik](https://www.tudelft.nl/en/staff/b.j.w.dudzik/?cHash=14faedd04b6a16627463d4d97027a904) and [Tom Viering](https://www.tomviering.nl/), he is exploring ways to build AI that doesn't just process data but truly understands the rich, nuanced world of human emotions — enhancing intelligent interaction and decision-making? His research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. Sayak’s work bridges insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges. 
+
+Beyond affective computing, he is passionate about generative modelling and test-time adaptation of pre-trained models. Holding a Master’s in Computer Science, with one year of research experience at the Computer Vision Lab, TU Delft and three years of experience as an application developer at Oracle, Sayak brings a unique blend of industrial expertise and deep research curiosity to the future of human-centered AI.
+
+::: {.grid}
+
+::: {.g-col-6}
+
+## Research Interests
+
+- Affective Computing
+- Generative Modelling
+- Computer Vision
+- Self-supervised Learning
+
+:::
+
+::: {.g-col-6}
+
+## Education
+
+🎓 **MSc Computer Science**    
+Delft University of Technology
+
+🎓 **BTech Information Technology**    
+West Bengal University of Technology
+
+:::
+
+:::
+
+:::
+
+&nbsp;
+
+<!-- Experience Section -->
+
+::: {.grid}
+
+::: {.g-col-2}
+
+:::
+
+::: {.g-col-8}
+
+## Experience
+
+**Doctoral Researcher** | Delft University of Technology | Mar 2025 - Present
+
+- Focus: Data-Eﬀicient ML for Context-Sensitive Affective Computing.
+
+**Researcher** | Delft University of Technology | Sep 2023 - Feb 2025
+
+- Worked on generative models with a focus on diffusion models.
+- Explored training-free alignment of diffusion models.
+- Proposed an alignment approach based on importance sampling.
+- Collaborated with researchers from MIT, Shell AI Research and Google.
+
+**Teaching Assistant** | Delft University of Technology | Feb 2022 - Present
+
+- Human-Computer Interaction [(CSE3500)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61502)
+- Web Science \& Engineering [(IN4252)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60628)
+- Fundamentals of AI Program [(IFEEMCS520100)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63120)
+- Deep Learning [(CS4240)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61010)
+- AI Skills for Engineers [(Access on EdX)](https://www.edx.org/learn/artificial-intelligence/delft-university-of-technology-ai-skills-for-engineers-data-engineering-and-data-pipelines)
+- Generative Modelling [(DSAIT4030)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70221)
+
+**Application Developer** | Oracle | Aug 2018 - Jul 2021
+
+- Collaborated with financial stakeholders to gather requirements.
+- Customized Oracle FLEXCUBE platform optimizing for regional banking needs.
+- Developed 40+ functionalities tailored to the Latin American banking sector.
+- Utilized Java, Spring, Hibernate, SOAP API, and JavaScript.
+- Deployed solutions on Oracle Database and Oracle Weblogic Server.
+
+:::
+
+::: {.g-col-2}
+
+:::
+
+:::
+
+&nbsp;
+
+<!-- Publication Section -->
+
+::: {.grid}
+
+::: {.g-col-2}
+
+:::
+
+::: {.g-col-8}
+
+## Selected Papers
+
+- "CoDe: Blockwise Control for Denoising Diffusion Models."  
+Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad (2025).     
+In ***ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy*** 
+
+- "MAPL: Model Agnostic Peer-to-peer Learning."     
+**Sayak Mukherjee**, Andrea Simonetto, Hadi Jamali-Rad (2024).      
+In ***ArXiV***     
+
+:::
+
+::: {.g-col-2}
+
+:::
+
+:::

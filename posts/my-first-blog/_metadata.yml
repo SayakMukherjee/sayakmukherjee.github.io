@@ -1,0 +1,20 @@
+author:
+  - id: sm
+    number: 1
+    name:
+      given: Sayak
+      family: Mukherjee
+      literal: Sayak Mukherjee
+    email: s.mukherjee-3@tudelft.nl
+format:
+  html:
+    df-print: paged
+    toc: true
+    lang: en-GB
+    code-overflow: wrap
+    mermaid:
+      theme: neutral
+citation:
+  type: article
+reference-location: margin
+citation-location: margin

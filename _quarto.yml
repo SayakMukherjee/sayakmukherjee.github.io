@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sayak Mukherjee"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers
+        text: Publications
+      - href: posts
+        text: Blogs
+  page-footer:
+    left: "&copy; Sayak Mukherjee, 2025."
+  twitter-card: true
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+    fig-align: center
+
+
+

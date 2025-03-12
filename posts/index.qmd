@@ -1,0 +1,17 @@
+---
+listing:
+  categories: true
+  contents:
+  - '*.qmd'
+  feed: true
+  filter-ui: false
+  sort: date desc
+  sort-ui: false
+  type: default
+page-layout: full
+title: "👋 Welcome to My Blog"
+title-block-bannerrR: false
+from: markdown+emoji
+---
+
+Hi, this is Sayak. I’m documenting my learning notes in this blog and things I find interesting.

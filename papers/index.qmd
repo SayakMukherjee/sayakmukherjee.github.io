@@ -1,0 +1,21 @@
+---
+title: Papers
+---
+
+<!-- references -->
+
+# 2025
+
+- "CoDe: Blockwise Control for Denoising Diffusion Models."  
+Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad (2025).     
+In ***ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy***     
+&nbsp;      
+<a class="btn btn-primary btn-sm" href="https://arxiv.org/abs/2403.19792" role="button"> Paper </a> <a class="btn btn-light btn-sm" href="#" role="button" disabled> Code </a> 
+
+# 2024
+
+- "MAPL: Model Agnostic Peer-to-peer Learning."     
+**Sayak Mukherjee**, Andrea Simonetto, Hadi Jamali-Rad (2024).      
+In ***ArXiV***       
+&nbsp;      
+<a class="btn btn-primary btn-sm" href="https://arxiv.org/abs/2403.19792" role="button"> Paper </a> <a class="btn btn-light btn-sm" href="https://github.com/SayakMukherjee/MAPL" role="button"> Code </a> 
