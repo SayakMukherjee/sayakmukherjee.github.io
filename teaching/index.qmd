@@ -1,0 +1,19 @@
+---
+title: 📝 Teaching
+---
+
+<!-- references -->
+
+# Courses 
+
+- Human-Computer Interaction [(CSE3500)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61502)
+- Web Science \& Engineering [(IN4252)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60628)
+- Fundamentals of AI Program [(IFEEMCS520100)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63120)
+- Deep Learning [(CS4240)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61010)
+- AI Skills for Engineers [(Access on EdX)](https://www.edx.org/learn/artificial-intelligence/delft-university-of-technology-ai-skills-for-engineers-data-engineering-and-data-pipelines)
+- Generative Modelling [(DSAIT4030)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70221)
+
+# Currently supervising MSc students
+
+- Teodor Oprescu        
+Project: *Test-time sample adaptation*

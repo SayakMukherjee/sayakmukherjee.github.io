@@ -1,1 +1,4 @@
 /* css styles */
+.btn.btn-sm {
+    border-radius: 0.4em;
+}

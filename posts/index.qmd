@@ -14,4 +14,4 @@ title-block-bannerrR: false
 from: markdown+emoji
 ---
 
-Hi, this is Sayak. I’m documenting my learning notes in this blog and things I find interesting.
+Hi, this is Sayak. I'm documenting my learning notes and things I find interesting in this blog.

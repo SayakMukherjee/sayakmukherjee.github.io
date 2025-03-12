@@ -10,6 +10,8 @@ website:
         text: Home
       - href: papers
         text: Publications
+      - href: teaching
+        text: Teaching
       - href: posts
         text: Blogs
   page-footer:
@@ -20,8 +22,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
     toc_depth: 3
