@@ -13,18 +13,23 @@ website:
       - href: teaching
         text: Teaching
       - href: posts
-        text: Blogs
+        text: Blog
   page-footer:
-    left: "&copy; Sayak Mukherjee, 2025."
+    left: >-
+      &copy; 2025 Sayak Mukherjee &#8729; Made with [Quarto](https://quarto.org)
   twitter-card: true
   open-graph: true
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
-    css: styles.css
+      dark: 
+        - cosmo
+        - style/theme-dark.scss
+      light:
+        - cosmo
+        - style/theme-light.scss
+    # css: styles.css
     toc: true
     toc_depth: 3
     toc_float: true
