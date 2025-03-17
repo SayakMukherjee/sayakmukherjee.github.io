@@ -4,7 +4,7 @@ subtitle: Doctoral Researcher
 about:
     id: hero-heading
     template: trestles
-    image-width: 20em
+    image-width: 14em
     image-shape: rounded
     links:
         - icon: linkedin
@@ -106,7 +106,7 @@ West Bengal University of Technology
 - Utilized Java, Spring, Hibernate, SOAP API, and JavaScript.
 - Deployed solutions on Oracle Database and Oracle Weblogic Server.
 
-[Check out my CV &rarr;](/about){.about-links .subtitle}
+[Check out my CV &rarr;](/assets/resume.pdf){.about-links .subtitle}
 
 :::
 

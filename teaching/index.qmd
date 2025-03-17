@@ -1,17 +1,54 @@
 ---
 title: 📝 Teaching
+listing:
+  id: courses
+  template: ../style/teaching.ejs
+  contents:
+    - image: genmod.jpg
+      alttext: Generative Modelling
+      title: Generative Modelling (DSAIT4030)
+      years:
+        - 2025
+      href: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70221
+      location: TU Delft
+    - image: dl.png
+      alttext: Deep Learning
+      title: Deep Learning (CS4240)
+      years:
+        - 2024
+      href: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61010
+      location: TU Delft
+    - image: aiskill.png
+      alttext: AI Skills for Engineers
+      title: AI Skills for Engineers
+      years:
+        - 2023
+      href: https://www.edx.org/learn/artificial-intelligence/delft-university-of-technology-ai-skills-for-engineers-data-engineering-and-data-pipelines
+      location: EdX
+    - image: hci.jpg
+      alttext: Human-Computer Interaction (CSE3500)
+      title: Human-Computer Interaction (CSE3500)
+      years:
+        - 2022
+        - 2023
+      href: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61502
+      location: TU Delft
+from: markdown+emoji
 ---
 
 <!-- references -->
 
 # Courses 
 
-- Human-Computer Interaction [(CSE3500)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61502)
+::: {#courses}
+:::
+
+<!-- - Human-Computer Interaction [(CSE3500)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61502)
 - Web Science \& Engineering [(IN4252)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60628)
 - Fundamentals of AI Program [(IFEEMCS520100)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63120)
 - Deep Learning [(CS4240)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61010)
 - AI Skills for Engineers [(Access on EdX)](https://www.edx.org/learn/artificial-intelligence/delft-university-of-technology-ai-skills-for-engineers-data-engineering-and-data-pipelines)
-- Generative Modelling [(DSAIT4030)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70221)
+- Generative Modelling [(DSAIT4030)](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=70221) -->
 
 # Currently supervising MSc students
 

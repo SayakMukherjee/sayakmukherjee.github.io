@@ -4,5 +4,9 @@
     "items": [
       "/posts/my-first-blog/index.html"
     ]
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
   }
 ]
