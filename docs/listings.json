@@ -1,12 +1,12 @@
 [
   {
+    "listing": "/teaching/index.html",
+    "items": []
+  },
+  {
     "listing": "/posts/index.html",
     "items": [
       "/posts/my-first-blog/index.html"
     ]
-  },
-  {
-    "listing": "/teaching/index.html",
-    "items": []
   }
 ]

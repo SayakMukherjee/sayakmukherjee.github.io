@@ -39,7 +39,9 @@ resources:
 
 :::{#hero-heading}
 
-I am a doctoral researcher at the Human Oriented Machine Perception (HOMI) Lab at TU Delft. Under the guidance of [Bernd Dudzik](https://www.tudelft.nl/en/staff/b.j.w.dudzik/?cHash=14faedd04b6a16627463d4d97027a904) and [Tom Viering](https://www.tomviering.nl/), I am exploring ways to build AI that doesn't just process data but truly understands the rich, nuanced world of human emotions — enhancing intelligent interaction and decision-making. My research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. My work aims to bridges insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges. 
+### Hey there, Thanks for stoppping by!
+
+I am Sayak Mukherjee (সায়ক মুখার্জী), a doctoral researcher at the Cognitive Affective Technology (CAT) Lab at TU Delft working under the guidance of [Bernd Dudzik](https://www.tudelft.nl/en/staff/b.j.w.dudzik/?cHash=14faedd04b6a16627463d4d97027a904) and [Tom Viering](https://www.tomviering.nl/). My research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. My work aims to bridges insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges. 
 
 Beyond affective computing, I am passionate about generative modelling and test-time adaptation of pre-trained models. Holding a Master’s in Computer Science, with one year of research experience at the Computer Vision Lab, TU Delft and three years of experience as an application developer at Oracle, I bring a unique blend of industrial expertise and deep research curiosity to the future of human-centered AI.
 
@@ -49,10 +51,12 @@ Beyond affective computing, I am passionate about generative modelling and test-
 
 📚 **Research Interests**
 
-- Affective Computing
+- Probabilistic ML
 - Generative Modelling
 - Computer Vision
+- Affective Computing
 - Self-supervised Learning
+- Multimodal AI
 
 :::
 

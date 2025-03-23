@@ -1039,25 +1039,28 @@ $theme-name: null !default;
 
 // quarto-scss-analysis-annotation { "origin": "Defaults from user-defined SCSS" }
 
+// @import "color.scss";
 
 // Quarto references:
 // Variables: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
 // Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
 
 // Colors: Quarto variables
-$primary:                    #2E4963;
-$secondary:                  #A23E02;
+$primary:                    #FFFBF2;
+$secondary:                  #D96E34;
+
 // Colors: custom variables
-$primary-dark:               $#002642;
-$secondary-light:            $spc-secondary-light;
-$accent:                     $spc-accent; 
-$accent-light:               $spc-accent-light;
-$accent-dark:                $spc-accent-dark;
+$primary-dark:               #FAF0E3;
+$secondary-light:            #A23E02;
+$accent:                     #b9c680; 
+$accent-light:               #EEF1E0;
+$accent-dark:                #697935;
+$about-bg:                   ##7f849c;
 
 // Body
 $body-color:                 $primary-dark;
-$body-bg:                    $spc-bg-0;
-$body-secondary:             #6C757D;
+$body-bg:                    #0E171E;
+$body-secondary:             #9DA3AA; // 6c757d
 
 // Fonts
 
@@ -1084,12 +1087,12 @@ $table-group-separator-color: lighten($primary, 40%);
 $table-caption-color:         $body-secondary;
 
 // Code blocks
-$code-block-bg:              white;
-$code-block-border:          #ebebeb;
+$code-block-bg:              #16242f; // 2b2b2b
+$code-block-border:          $body-bg;
 
 // Inline code
-$code-color:                  $primary-dark;
-$code-bg:                     $accent-light;
+$code-color:                  $body-bg;
+$code-bg:                     $accent;
 
 // Table of contents
 $toc-color:                   $link-color;
@@ -1108,6 +1111,7 @@ $table-group-separator-color-lighter: lighten($primary, 50%);
 
 // Miscellaneous (workarounds)
 $gray-200:                    lighten($primary, 60%);
+$gray-700:                    lighten($primary, 60%);
 
 
 // Heading font size customization
@@ -12954,12 +12958,17 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
 // code with filename
 .code-with-filename .code-with-filename-file {
   color: $code-color;
-  background-color: $code-bg;
+  background-color: $code-bg !important; // $code-bg
   border: 1px solid $code-block-border;
   border-bottom: none;
   pre {
-    background-color: $code-bg;
+    background-color: $code-bg !important;
   }
+}
+
+// code output
+pre code {
+  color: $primary;
 }
 
 // Blockquotes
@@ -12995,6 +13004,11 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
   color: $secondary !important;
 }
 
+//// custom substack embed
+//#custom-substack-embed p.success {
+//  color: #FFFBF2 !important;
+//}
+
 // Buttons
 
 // post links
@@ -13024,12 +13038,12 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
 
 // posts
 .quarto-category {
-  background-color: $primary;
-  color: white;
+  background-color: $body-bg;
+  color: $primary;
   border-color: $primary;
   &:hover {
-    background-color: white;
-    color: $primary;
+    background-color: $primary;
+    color: $body-bg;
   }
 }
 
@@ -13098,10 +13112,10 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
 
 // Listing cards
 .card {
-  background: transparent;
+  background: #16242f !important;
   border: none;
   border-radius: 4px;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 1px 1px 10px #060a0d !important;
 }
 
 .card-img {
@@ -13158,6 +13172,11 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
       text-decoration: none !important;
     }
   }
+}
+
+// details/summaries
+details > summary {
+  color: $body-secondary;
 }
 
 // Mobile

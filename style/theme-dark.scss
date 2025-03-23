@@ -1,12 +1,13 @@
 /*-- scss:defaults --*/
+// @import "color.scss";
 
 // Quarto references:
 // Variables: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-variables.scss
 // Rules: https://github.com/quarto-dev/quarto-cli/src/resources/formats/html/bootstrap/_bootstrap-rules.scss
 
 // Colors: Quarto variables
-$primary:                    #FFFBF2;
-$secondary:                  #D96E34;
+$primary:                    #cdd6f4;
+$secondary:                  #89b4fa;
 
 // Colors: custom variables
 $primary-dark:               #FAF0E3;
@@ -14,11 +15,11 @@ $secondary-light:            #A23E02;
 $accent:                     #b9c680; 
 $accent-light:               #EEF1E0;
 $accent-dark:                #697935;
-$about-bg:                   #16242f;
+$about-bg:                   #313244;
 
 // Body
 $body-color:                 $primary-dark;
-$body-bg:                    #0E171E;
+$body-bg:                    #11111b;
 $body-secondary:             #9DA3AA; // 6c757d
 
 // Fonts

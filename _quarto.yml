@@ -23,12 +23,12 @@ website:
 format:
   html:
     theme:
-      dark: 
-        - cosmo
-        - style/theme-dark.scss
-      light:
-        - cosmo
-        - style/theme-light.scss
+      # dark: 
+      - cosmo
+      - style/theme-dark.scss
+      # light:
+      #   - cosmo
+      #   - style/theme-light.scss
     # css: styles.css
     toc: true
     toc_depth: 3
