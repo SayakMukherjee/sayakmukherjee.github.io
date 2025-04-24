@@ -129,13 +129,13 @@ West Bengal University of Technology
 ::: {.g-col-12 .g-col-md-7}
 
 - "CoDe: Blockwise Control for Denoising Diffusion Models."  
-Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad (2025).     
-In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy*   
-In *Transactions on Machine Learning Research*   
+Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad.     
+In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy, 2025*   
+In *Transactions on Machine Learning Research, 2025*   
 
 - "MAPL: Model Agnostic Peer-to-peer Learning."     
-**Sayak Mukherjee**, Andrea Simonetto, Hadi Jamali-Rad (2024).      
-In *ArXiV*     
+**Sayak Mukherjee**, Andrea Simonetto, Hadi Jamali-Rad.      
+In *ArXiV, 2024*     
 
 [See all publications &rarr;](/papers){.about-links .subtitle}
 
