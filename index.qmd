@@ -1,6 +1,6 @@
 ---
 title: "Sayak Mukherjee"
-subtitle: Doctoral Researcher
+subtitle: PhD Student
 about:
     id: hero-heading
     template: trestles
@@ -39,9 +39,9 @@ resources:
 
 :::{#hero-heading}
 
-### Hey there, Thanks for stoppping by!
+### Hey there, Thanks for stopping by!
 
-I am Sayak Mukherjee (সায়ক মুখার্জী), a doctoral researcher at the Cognitive Affective Technology (CAT) Lab at TU Delft working under the guidance of [Bernd Dudzik](https://www.tudelft.nl/en/staff/b.j.w.dudzik/?cHash=14faedd04b6a16627463d4d97027a904) and [Tom Viering](https://www.tomviering.nl/). My research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. My work aims to bridges insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges. 
+I am Sayak Mukherjee (সায়ক মুখার্জী), a PhD student at the Cognitive Affective Technology (CAT) Lab at TU Delft working under the guidance of [Bernd Dudzik](https://www.tudelft.nl/en/staff/b.j.w.dudzik/?cHash=14faedd04b6a16627463d4d97027a904) and [Tom Viering](https://www.tomviering.nl/). My research focuses on developing data-efficient, context-sensitive, and privacy-preserving multimodal AI systems for automatic affect prediction—paving the way for Artificial Empathic Agents. Current deep learning approaches struggle with data efficiency and in capturing situational, cultural, and personal contextual subtleties, limiting their real-world effectiveness. My work aims to bridge insights from cognitive psychology and (probabilistic) machine learning to model human cognitive-affective processes more effectively, thereby addressing these key challenges. 
 
 Beyond affective computing, I am passionate about generative modelling and test-time adaptation of pre-trained models. Holding a Master’s in Computer Science, with one year of research experience at the Computer Vision Lab, TU Delft and three years of experience as an application developer at Oracle, I bring a unique blend of industrial expertise and deep research curiosity to the future of human-centered AI.
 
@@ -91,7 +91,7 @@ West Bengal University of Technology
 ::: {.g-col-12 .g-col-md-7}
 
 
-**Doctoral Researcher** | Delft University of Technology | Mar 2025 - Present
+**PhD Student** | Delft University of Technology | Mar 2025 - Present
 
 - Focus: Data-Eﬀicient ML for Context-Sensitive Affective Computing.
 
@@ -130,7 +130,8 @@ West Bengal University of Technology
 
 - "CoDe: Blockwise Control for Denoising Diffusion Models."  
 Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad (2025).     
-In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy* 
+In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy*   
+In *Transactions on Machine Learning Research*   
 
 - "MAPL: Model Agnostic Peer-to-peer Learning."     
 **Sayak Mukherjee**, Andrea Simonetto, Hadi Jamali-Rad (2024).      
