@@ -8,9 +8,10 @@ title: 📝 Papers
 
 - "CoDe: Blockwise Control for Denoising Diffusion Models."  
 Anuj Singh, **Sayak Mukherjee**, Ahmad Beirami, Hadi Jamali-Rad (2025).     
-In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy*     
+In *ICLR Workshop on Deep Generative Models: Theory, Principle, and Efficacy*  
+In *Transactions on Machine Learning Research*   
 &nbsp;      
-<a class="btn btn-primary btn-sm mr-4" href="https://arxiv.org/abs/2502.00968" style="margin-right:0.5em"> Paper </a> <a class="btn btn-light btn-sm" href="#" style="margin-right:0.5em" disabled> Code </a> 
+<a class="btn btn-primary btn-sm mr-4" href="https://arxiv.org/abs/2502.00968" style="margin-right:0.5em"> Paper </a> <a class="btn btn-light btn-sm" href="https://github.com/anujinho/code" style="margin-right:0.5em"> Code </a> 
 
 # 2024
 
